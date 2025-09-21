@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "owner_id": 1234567890,
+    "client_id": "DISCORD_CLIENT_ID",
+    "client_secret": "DISCORD_CLIENT_SECRET",
+    "redirect_uri": "YOUR_REDIRECT_URI",
+    "mongo_uri": ""
+}
