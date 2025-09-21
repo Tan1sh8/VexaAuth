@@ -1,4 +1,4 @@
-VexaAuth 🔐
+# VexaAuth 🔐
 
 VexaAuth is a Discord bot that allows users to verify globally via OAuth2 and be automatically pulled into servers when the owner runs .restore.
 All user data is stored securely in MongoDB Cloud (Atlas).
@@ -6,7 +6,7 @@ All user data is stored securely in MongoDB Cloud (Atlas).
 
 ---
 
-Features
+# Features
 
 Global verification via OAuth2
 
@@ -22,7 +22,7 @@ Commands: .help, .sendverifylink, .restore, .setlogs
 
 ---
 
-Requirements
+# Requirements
 
 Python 3.9 or higher
 
@@ -36,7 +36,7 @@ MongoDB Atlas account (free tier works)
 
 ---
 
-Setup Instructions
+# Setup Instructions
 
 1️⃣ Fork or Download Repo
 
